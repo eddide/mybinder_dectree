@@ -1,4 +1,5 @@
 # Binder Badge
+https://mybinder.org/v2/gh/eddide/mybinder_dectree/HEAD
 
 # Dokumentation zur Ausführung
 1. Aktivieren des Links zu Binder
@@ -60,8 +61,8 @@ Anwenden der logistischen Regression zur Vorhersage der Kategorie
 Evaluierung über den classification report.
 Es sollten ähnliche Ergebnisse wie diese angezeigt werden:
 - accuracy: 73%
-- reall: 82 und 23%
-- f1-score: 84 und 21 %
+- reall: 82 und 25%
+- f1-score: 84 und 22 %
 
 Das Modell kann lediglich gut vorhersagen, dass ein Kunde die Risikobewertung nicht besteht dort liegt es zu 82% richtig.
-Bei der Vorhersage eines nicht bestehens der Risikobewertung liegt das Modell nur zu 23% richtig und ist damit nicht gut geeignet.
+Bei der Vorhersage eines nicht bestehens der Risikobewertung liegt das Modell nur zu 25% richtig und ist damit nicht gut geeignet.
