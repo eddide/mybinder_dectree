@@ -53,8 +53,8 @@ Vorbereitung der Daten auf ein Fandom Forest Klassifikationsmodell
 - Kategorische Eigenschaften
 -get_dummies
 
-### Logistische Regression
-Anwenden der logistischen Regression zur Vorhersage der Kategorie
+## Decision Tree
+Anwenden des Decision Trees zur Vorhersage der Kategorie
 - Aufsplitten in Trainings- und Testdaten
 - Trainieren und Fitten des Modells auf den Datensatz
 ### Evaluation der Vorhersage
