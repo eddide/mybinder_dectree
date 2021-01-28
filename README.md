@@ -3,12 +3,9 @@ https://mybinder.org/v2/gh/eddide/mybinder_dectree/HEAD
 
 # Dokumentation zur Ausführung
 1. Aktivieren des Links zu Binder
-2. Öffnen des Python-Notebooks "Installationen"
+2. Öffnen des Pyhton-Notebooks "Decision Trees"
 3. In der Toolbar unter "Kernel" "Restart & Run All" aktivieren. --> Bestätigen des Pop-up Fensters mit "Restart and Run All Cells"
-4. Nach der erfolgreichen Ausführung Schließen des Python-Notenooks "Installationen"
-5. Öffnen des Pyhton-Notebooks "Decision Trees"
-6. In der Toolbar unter "Kernel" "Restart & Run All" aktivieren. --> Bestätigen des Pop-up Fensters mit "Restart and Run All Cells"
-7. Ergebnisse mit den unten beschriebenen Ergebnissen abgleichen
+4. Ergebnisse mit den unten beschriebenen Ergebnissen abgleichen
 
 # Decision Trees und Random Forests
 
